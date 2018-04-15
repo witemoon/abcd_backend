@@ -1,0 +1,2829 @@
+
+{
+    "Merchant Name": "XXXXXX",
+    "Merchant ID": "XXXXXXX",
+    "Email": "XXXXX@XXX.COM",
+    "Leases": [
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-0",
+          "Lease Term": "XXXXXX-0",
+          "Start Date": "XXXXXX-0",
+          "End Date": "XXXXXX-0",
+          "Payments Made": "XXXXXX-0",
+          "Payment Amount": "XXXXXX-0",
+          "Payment Due Amount": "XXXXXX-0",
+          "Past Due Amount": "XXXXXX-0",
+          "Days Past Due": "XXXXXX-0",
+          "Personal Guarantor": "XXXXXX-0",
+          "Buyout Quote": "XXXXXX-0",
+          "Bank Routing Number": "XXXXXX-0",
+          "Bank Account Number": "XXXXXX-0",
+          "Epp Enrolled": "XXXXXX-0",
+          "EPP Amount": "XXXXXX-0",
+          "Property Tax Handling field": "XXXXXX-0"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-0",
+          "Equipment Coverage Company": "XXXXXX-0",
+          "Policy Number": "XXXXXX-0",
+          "Start Date": "XXXXXX-0",
+          "End Date": "XXXXXX-0"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-0",
+          "Current Balance": "XXXXXXX-0",
+          "Last Payment": "XXXXXXX-0",
+          "Total Minimum Due": "XXXXXX-0",
+          "Payment Due Date": "XXXXXX-0",
+          "Days past Due": "XXXXXX-0",
+          "Past Payment Due": "XXXXXX-0"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-1",
+          "Lease Term": "XXXXXX-1",
+          "Start Date": "XXXXXX-1",
+          "End Date": "XXXXXX-1",
+          "Payments Made": "XXXXXX-1",
+          "Payment Amount": "XXXXXX-1",
+          "Payment Due Amount": "XXXXXX-1",
+          "Past Due Amount": "XXXXXX-1",
+          "Days Past Due": "XXXXXX-1",
+          "Personal Guarantor": "XXXXXX-1",
+          "Buyout Quote": "XXXXXX-1",
+          "Bank Routing Number": "XXXXXX-1",
+          "Bank Account Number": "XXXXXX-1",
+          "Epp Enrolled": "XXXXXX-1",
+          "EPP Amount": "XXXXXX-1",
+          "Property Tax Handling field": "XXXXXX-1"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-1",
+          "Equipment Coverage Company": "XXXXXX-1",
+          "Policy Number": "XXXXXX-1",
+          "Start Date": "XXXXXX-1",
+          "End Date": "XXXXXX-1"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-1",
+          "Current Balance": "XXXXXXX-1",
+          "Last Payment": "XXXXXXX-1",
+          "Total Minimum Due": "XXXXXX-1",
+          "Payment Due Date": "XXXXXX-1",
+          "Days past Due": "XXXXXX-1",
+          "Past Payment Due": "XXXXXX-1"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-2",
+          "Lease Term": "XXXXXX-2",
+          "Start Date": "XXXXXX-2",
+          "End Date": "XXXXXX-2",
+          "Payments Made": "XXXXXX-2",
+          "Payment Amount": "XXXXXX-2",
+          "Payment Due Amount": "XXXXXX-2",
+          "Past Due Amount": "XXXXXX-2",
+          "Days Past Due": "XXXXXX-2",
+          "Personal Guarantor": "XXXXXX-2",
+          "Buyout Quote": "XXXXXX-2",
+          "Bank Routing Number": "XXXXXX-2",
+          "Bank Account Number": "XXXXXX-2",
+          "Epp Enrolled": "XXXXXX-2",
+          "EPP Amount": "XXXXXX-2",
+          "Property Tax Handling field": "XXXXXX-2"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-2",
+          "Equipment Coverage Company": "XXXXXX-2",
+          "Policy Number": "XXXXXX-2",
+          "Start Date": "XXXXXX-2",
+          "End Date": "XXXXXX-2"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-2",
+          "Current Balance": "XXXXXXX-2",
+          "Last Payment": "XXXXXXX-2",
+          "Total Minimum Due": "XXXXXX-2",
+          "Payment Due Date": "XXXXXX-2",
+          "Days past Due": "XXXXXX-2",
+          "Past Payment Due": "XXXXXX-2"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-3",
+          "Lease Term": "XXXXXX-3",
+          "Start Date": "XXXXXX-3",
+          "End Date": "XXXXXX-3",
+          "Payments Made": "XXXXXX-3",
+          "Payment Amount": "XXXXXX-3",
+          "Payment Due Amount": "XXXXXX-3",
+          "Past Due Amount": "XXXXXX-3",
+          "Days Past Due": "XXXXXX-3",
+          "Personal Guarantor": "XXXXXX-3",
+          "Buyout Quote": "XXXXXX-3",
+          "Bank Routing Number": "XXXXXX-3",
+          "Bank Account Number": "XXXXXX-3",
+          "Epp Enrolled": "XXXXXX-3",
+          "EPP Amount": "XXXXXX-3",
+          "Property Tax Handling field": "XXXXXX-3"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-3",
+          "Equipment Coverage Company": "XXXXXX-3",
+          "Policy Number": "XXXXXX-3",
+          "Start Date": "XXXXXX-3",
+          "End Date": "XXXXXX-3"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-3",
+          "Current Balance": "XXXXXXX-3",
+          "Last Payment": "XXXXXXX-3",
+          "Total Minimum Due": "XXXXXX-3",
+          "Payment Due Date": "XXXXXX-3",
+          "Days past Due": "XXXXXX-3",
+          "Past Payment Due": "XXXXXX-3"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-4",
+          "Lease Term": "XXXXXX-4",
+          "Start Date": "XXXXXX-4",
+          "End Date": "XXXXXX-4",
+          "Payments Made": "XXXXXX-4",
+          "Payment Amount": "XXXXXX-4",
+          "Payment Due Amount": "XXXXXX-4",
+          "Past Due Amount": "XXXXXX-4",
+          "Days Past Due": "XXXXXX-4",
+          "Personal Guarantor": "XXXXXX-4",
+          "Buyout Quote": "XXXXXX-4",
+          "Bank Routing Number": "XXXXXX-4",
+          "Bank Account Number": "XXXXXX-4",
+          "Epp Enrolled": "XXXXXX-4",
+          "EPP Amount": "XXXXXX-4",
+          "Property Tax Handling field": "XXXXXX-4"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-4",
+          "Equipment Coverage Company": "XXXXXX-4",
+          "Policy Number": "XXXXXX-4",
+          "Start Date": "XXXXXX-4",
+          "End Date": "XXXXXX-4"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-4",
+          "Current Balance": "XXXXXXX-4",
+          "Last Payment": "XXXXXXX-4",
+          "Total Minimum Due": "XXXXXX-4",
+          "Payment Due Date": "XXXXXX-4",
+          "Days past Due": "XXXXXX-4",
+          "Past Payment Due": "XXXXXX-4"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-5",
+          "Lease Term": "XXXXXX-5",
+          "Start Date": "XXXXXX-5",
+          "End Date": "XXXXXX-5",
+          "Payments Made": "XXXXXX-5",
+          "Payment Amount": "XXXXXX-5",
+          "Payment Due Amount": "XXXXXX-5",
+          "Past Due Amount": "XXXXXX-5",
+          "Days Past Due": "XXXXXX-5",
+          "Personal Guarantor": "XXXXXX-5",
+          "Buyout Quote": "XXXXXX-5",
+          "Bank Routing Number": "XXXXXX-5",
+          "Bank Account Number": "XXXXXX-5",
+          "Epp Enrolled": "XXXXXX-5",
+          "EPP Amount": "XXXXXX-5",
+          "Property Tax Handling field": "XXXXXX-5"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-5",
+          "Equipment Coverage Company": "XXXXXX-5",
+          "Policy Number": "XXXXXX-5",
+          "Start Date": "XXXXXX-5",
+          "End Date": "XXXXXX-5"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-5",
+          "Current Balance": "XXXXXXX-5",
+          "Last Payment": "XXXXXXX-5",
+          "Total Minimum Due": "XXXXXX-5",
+          "Payment Due Date": "XXXXXX-5",
+          "Days past Due": "XXXXXX-5",
+          "Past Payment Due": "XXXXXX-5"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-6",
+          "Lease Term": "XXXXXX-6",
+          "Start Date": "XXXXXX-6",
+          "End Date": "XXXXXX-6",
+          "Payments Made": "XXXXXX-6",
+          "Payment Amount": "XXXXXX-6",
+          "Payment Due Amount": "XXXXXX-6",
+          "Past Due Amount": "XXXXXX-6",
+          "Days Past Due": "XXXXXX-6",
+          "Personal Guarantor": "XXXXXX-6",
+          "Buyout Quote": "XXXXXX-6",
+          "Bank Routing Number": "XXXXXX-6",
+          "Bank Account Number": "XXXXXX-6",
+          "Epp Enrolled": "XXXXXX-6",
+          "EPP Amount": "XXXXXX-6",
+          "Property Tax Handling field": "XXXXXX-6"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-6",
+          "Equipment Coverage Company": "XXXXXX-6",
+          "Policy Number": "XXXXXX-6",
+          "Start Date": "XXXXXX-6",
+          "End Date": "XXXXXX-6"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-6",
+          "Current Balance": "XXXXXXX-6",
+          "Last Payment": "XXXXXXX-6",
+          "Total Minimum Due": "XXXXXX-6",
+          "Payment Due Date": "XXXXXX-6",
+          "Days past Due": "XXXXXX-6",
+          "Past Payment Due": "XXXXXX-6"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-7",
+          "Lease Term": "XXXXXX-7",
+          "Start Date": "XXXXXX-7",
+          "End Date": "XXXXXX-7",
+          "Payments Made": "XXXXXX-7",
+          "Payment Amount": "XXXXXX-7",
+          "Payment Due Amount": "XXXXXX-7",
+          "Past Due Amount": "XXXXXX-7",
+          "Days Past Due": "XXXXXX-7",
+          "Personal Guarantor": "XXXXXX-7",
+          "Buyout Quote": "XXXXXX-7",
+          "Bank Routing Number": "XXXXXX-7",
+          "Bank Account Number": "XXXXXX-7",
+          "Epp Enrolled": "XXXXXX-7",
+          "EPP Amount": "XXXXXX-7",
+          "Property Tax Handling field": "XXXXXX-7"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-7",
+          "Equipment Coverage Company": "XXXXXX-7",
+          "Policy Number": "XXXXXX-7",
+          "Start Date": "XXXXXX-7",
+          "End Date": "XXXXXX-7"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-7",
+          "Current Balance": "XXXXXXX-7",
+          "Last Payment": "XXXXXXX-7",
+          "Total Minimum Due": "XXXXXX-7",
+          "Payment Due Date": "XXXXXX-7",
+          "Days past Due": "XXXXXX-7",
+          "Past Payment Due": "XXXXXX-7"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-8",
+          "Lease Term": "XXXXXX-8",
+          "Start Date": "XXXXXX-8",
+          "End Date": "XXXXXX-8",
+          "Payments Made": "XXXXXX-8",
+          "Payment Amount": "XXXXXX-8",
+          "Payment Due Amount": "XXXXXX-8",
+          "Past Due Amount": "XXXXXX-8",
+          "Days Past Due": "XXXXXX-8",
+          "Personal Guarantor": "XXXXXX-8",
+          "Buyout Quote": "XXXXXX-8",
+          "Bank Routing Number": "XXXXXX-8",
+          "Bank Account Number": "XXXXXX-8",
+          "Epp Enrolled": "XXXXXX-8",
+          "EPP Amount": "XXXXXX-8",
+          "Property Tax Handling field": "XXXXXX-8"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-8",
+          "Equipment Coverage Company": "XXXXXX-8",
+          "Policy Number": "XXXXXX-8",
+          "Start Date": "XXXXXX-8",
+          "End Date": "XXXXXX-8"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-8",
+          "Current Balance": "XXXXXXX-8",
+          "Last Payment": "XXXXXXX-8",
+          "Total Minimum Due": "XXXXXX-8",
+          "Payment Due Date": "XXXXXX-8",
+          "Days past Due": "XXXXXX-8",
+          "Past Payment Due": "XXXXXX-8"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-9",
+          "Lease Term": "XXXXXX-9",
+          "Start Date": "XXXXXX-9",
+          "End Date": "XXXXXX-9",
+          "Payments Made": "XXXXXX-9",
+          "Payment Amount": "XXXXXX-9",
+          "Payment Due Amount": "XXXXXX-9",
+          "Past Due Amount": "XXXXXX-9",
+          "Days Past Due": "XXXXXX-9",
+          "Personal Guarantor": "XXXXXX-9",
+          "Buyout Quote": "XXXXXX-9",
+          "Bank Routing Number": "XXXXXX-9",
+          "Bank Account Number": "XXXXXX-9",
+          "Epp Enrolled": "XXXXXX-9",
+          "EPP Amount": "XXXXXX-9",
+          "Property Tax Handling field": "XXXXXX-9"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-9",
+          "Equipment Coverage Company": "XXXXXX-9",
+          "Policy Number": "XXXXXX-9",
+          "Start Date": "XXXXXX-9",
+          "End Date": "XXXXXX-9"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-9",
+          "Current Balance": "XXXXXXX-9",
+          "Last Payment": "XXXXXXX-9",
+          "Total Minimum Due": "XXXXXX-9",
+          "Payment Due Date": "XXXXXX-9",
+          "Days past Due": "XXXXXX-9",
+          "Past Payment Due": "XXXXXX-9"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-10",
+          "Lease Term": "XXXXXX-10",
+          "Start Date": "XXXXXX-10",
+          "End Date": "XXXXXX-10",
+          "Payments Made": "XXXXXX-10",
+          "Payment Amount": "XXXXXX-10",
+          "Payment Due Amount": "XXXXXX-10",
+          "Past Due Amount": "XXXXXX-10",
+          "Days Past Due": "XXXXXX-10",
+          "Personal Guarantor": "XXXXXX-10",
+          "Buyout Quote": "XXXXXX-10",
+          "Bank Routing Number": "XXXXXX-10",
+          "Bank Account Number": "XXXXXX-10",
+          "Epp Enrolled": "XXXXXX-10",
+          "EPP Amount": "XXXXXX-10",
+          "Property Tax Handling field": "XXXXXX-10"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-10",
+          "Equipment Coverage Company": "XXXXXX-10",
+          "Policy Number": "XXXXXX-10",
+          "Start Date": "XXXXXX-10",
+          "End Date": "XXXXXX-10"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-10",
+          "Current Balance": "XXXXXXX-10",
+          "Last Payment": "XXXXXXX-10",
+          "Total Minimum Due": "XXXXXX-10",
+          "Payment Due Date": "XXXXXX-10",
+          "Days past Due": "XXXXXX-10",
+          "Past Payment Due": "XXXXXX-10"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-11",
+          "Lease Term": "XXXXXX-11",
+          "Start Date": "XXXXXX-11",
+          "End Date": "XXXXXX-11",
+          "Payments Made": "XXXXXX-11",
+          "Payment Amount": "XXXXXX-11",
+          "Payment Due Amount": "XXXXXX-11",
+          "Past Due Amount": "XXXXXX-11",
+          "Days Past Due": "XXXXXX-11",
+          "Personal Guarantor": "XXXXXX-11",
+          "Buyout Quote": "XXXXXX-11",
+          "Bank Routing Number": "XXXXXX-11",
+          "Bank Account Number": "XXXXXX-11",
+          "Epp Enrolled": "XXXXXX-11",
+          "EPP Amount": "XXXXXX-11",
+          "Property Tax Handling field": "XXXXXX-11"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-11",
+          "Equipment Coverage Company": "XXXXXX-11",
+          "Policy Number": "XXXXXX-11",
+          "Start Date": "XXXXXX-11",
+          "End Date": "XXXXXX-11"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-11",
+          "Current Balance": "XXXXXXX-11",
+          "Last Payment": "XXXXXXX-11",
+          "Total Minimum Due": "XXXXXX-11",
+          "Payment Due Date": "XXXXXX-11",
+          "Days past Due": "XXXXXX-11",
+          "Past Payment Due": "XXXXXX-11"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-12",
+          "Lease Term": "XXXXXX-12",
+          "Start Date": "XXXXXX-12",
+          "End Date": "XXXXXX-12",
+          "Payments Made": "XXXXXX-12",
+          "Payment Amount": "XXXXXX-12",
+          "Payment Due Amount": "XXXXXX-12",
+          "Past Due Amount": "XXXXXX-12",
+          "Days Past Due": "XXXXXX-12",
+          "Personal Guarantor": "XXXXXX-12",
+          "Buyout Quote": "XXXXXX-12",
+          "Bank Routing Number": "XXXXXX-12",
+          "Bank Account Number": "XXXXXX-12",
+          "Epp Enrolled": "XXXXXX-12",
+          "EPP Amount": "XXXXXX-12",
+          "Property Tax Handling field": "XXXXXX-12"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-12",
+          "Equipment Coverage Company": "XXXXXX-12",
+          "Policy Number": "XXXXXX-12",
+          "Start Date": "XXXXXX-12",
+          "End Date": "XXXXXX-12"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-12",
+          "Current Balance": "XXXXXXX-12",
+          "Last Payment": "XXXXXXX-12",
+          "Total Minimum Due": "XXXXXX-12",
+          "Payment Due Date": "XXXXXX-12",
+          "Days past Due": "XXXXXX-12",
+          "Past Payment Due": "XXXXXX-12"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-13",
+          "Lease Term": "XXXXXX-13",
+          "Start Date": "XXXXXX-13",
+          "End Date": "XXXXXX-13",
+          "Payments Made": "XXXXXX-13",
+          "Payment Amount": "XXXXXX-13",
+          "Payment Due Amount": "XXXXXX-13",
+          "Past Due Amount": "XXXXXX-13",
+          "Days Past Due": "XXXXXX-13",
+          "Personal Guarantor": "XXXXXX-13",
+          "Buyout Quote": "XXXXXX-13",
+          "Bank Routing Number": "XXXXXX-13",
+          "Bank Account Number": "XXXXXX-13",
+          "Epp Enrolled": "XXXXXX-13",
+          "EPP Amount": "XXXXXX-13",
+          "Property Tax Handling field": "XXXXXX-13"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-13",
+          "Equipment Coverage Company": "XXXXXX-13",
+          "Policy Number": "XXXXXX-13",
+          "Start Date": "XXXXXX-13",
+          "End Date": "XXXXXX-13"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-13",
+          "Current Balance": "XXXXXXX-13",
+          "Last Payment": "XXXXXXX-13",
+          "Total Minimum Due": "XXXXXX-13",
+          "Payment Due Date": "XXXXXX-13",
+          "Days past Due": "XXXXXX-13",
+          "Past Payment Due": "XXXXXX-13"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      },
+      {
+        "Contract_Status": {
+          "Lease Status": "XXXXXX-14",
+          "Lease Term": "XXXXXX-14",
+          "Start Date": "XXXXXX-14",
+          "End Date": "XXXXXX-14",
+          "Payments Made": "XXXXXX-14",
+          "Payment Amount": "XXXXXX-14",
+          "Payment Due Amount": "XXXXXX-14",
+          "Past Due Amount": "XXXXXX-14",
+          "Days Past Due": "XXXXXX-14",
+          "Personal Guarantor": "XXXXXX-14",
+          "Buyout Quote": "XXXXXX-14",
+          "Bank Routing Number": "XXXXXX-14",
+          "Bank Account Number": "XXXXXX-14",
+          "Epp Enrolled": "XXXXXX-14",
+          "EPP Amount": "XXXXXX-14",
+          "Property Tax Handling field": "XXXXXX-14"
+        },
+        "Equipment_Coverages": {
+          "Equipment Coverage": "XXXXXX-14",
+          "Equipment Coverage Company": "XXXXXX-14",
+          "Policy Number": "XXXXXX-14",
+          "Start Date": "XXXXXX-14",
+          "End Date": "XXXXXX-14"
+        },
+        "Payment": {
+          "Lease Status": "XXXXXX-14",
+          "Current Balance": "XXXXXXX-14",
+          "Last Payment": "XXXXXXX-14",
+          "Total Minimum Due": "XXXXXX-14",
+          "Payment Due Date": "XXXXXX-14",
+          "Days past Due": "XXXXXX-14",
+          "Past Payment Due": "XXXXXX-14"
+        },
+        "Equipments": [
+          {
+            "Equipment": "XXXXXX-0",
+            "Business Address": "XXXXXXX-0",
+            "Business Contact": "XXXXXXX-0",
+            "Lease": "XXXXXX-0",
+            "Lease Status": "XXXXXX-0",
+            "Make and Model": "XXXXXX-0",
+            "Serial Number": "XXXXXX-0",
+            "Equipment Status": "XXXXXX-0"
+          },
+          {
+            "Equipment": "XXXXXX-1",
+            "Business Address": "XXXXXXX-1",
+            "Business Contact": "XXXXXXX-1",
+            "Lease": "XXXXXX-1",
+            "Lease Status": "XXXXXX-1",
+            "Make and Model": "XXXXXX-1",
+            "Serial Number": "XXXXXX-1",
+            "Equipment Status": "XXXXXX-1"
+          },
+          {
+            "Equipment": "XXXXXX-2",
+            "Business Address": "XXXXXXX-2",
+            "Business Contact": "XXXXXXX-2",
+            "Lease": "XXXXXX-2",
+            "Lease Status": "XXXXXX-2",
+            "Make and Model": "XXXXXX-2",
+            "Serial Number": "XXXXXX-2",
+            "Equipment Status": "XXXXXX-2"
+          },
+          {
+            "Equipment": "XXXXXX-3",
+            "Business Address": "XXXXXXX-3",
+            "Business Contact": "XXXXXXX-3",
+            "Lease": "XXXXXX-3",
+            "Lease Status": "XXXXXX-3",
+            "Make and Model": "XXXXXX-3",
+            "Serial Number": "XXXXXX-3",
+            "Equipment Status": "XXXXXX-3"
+          },
+          {
+            "Equipment": "XXXXXX-4",
+            "Business Address": "XXXXXXX-4",
+            "Business Contact": "XXXXXXX-4",
+            "Lease": "XXXXXX-4",
+            "Lease Status": "XXXXXX-4",
+            "Make and Model": "XXXXXX-4",
+            "Serial Number": "XXXXXX-4",
+            "Equipment Status": "XXXXXX-4"
+          },
+          {
+            "Equipment": "XXXXXX-5",
+            "Business Address": "XXXXXXX-5",
+            "Business Contact": "XXXXXXX-5",
+            "Lease": "XXXXXX-5",
+            "Lease Status": "XXXXXX-5",
+            "Make and Model": "XXXXXX-5",
+            "Serial Number": "XXXXXX-5",
+            "Equipment Status": "XXXXXX-5"
+          },
+          {
+            "Equipment": "XXXXXX-6",
+            "Business Address": "XXXXXXX-6",
+            "Business Contact": "XXXXXXX-6",
+            "Lease": "XXXXXX-6",
+            "Lease Status": "XXXXXX-6",
+            "Make and Model": "XXXXXX-6",
+            "Serial Number": "XXXXXX-6",
+            "Equipment Status": "XXXXXX-6"
+          },
+          {
+            "Equipment": "XXXXXX-7",
+            "Business Address": "XXXXXXX-7",
+            "Business Contact": "XXXXXXX-7",
+            "Lease": "XXXXXX-7",
+            "Lease Status": "XXXXXX-7",
+            "Make and Model": "XXXXXX-7",
+            "Serial Number": "XXXXXX-7",
+            "Equipment Status": "XXXXXX-7"
+          },
+          {
+            "Equipment": "XXXXXX-8",
+            "Business Address": "XXXXXXX-8",
+            "Business Contact": "XXXXXXX-8",
+            "Lease": "XXXXXX-8",
+            "Lease Status": "XXXXXX-8",
+            "Make and Model": "XXXXXX-8",
+            "Serial Number": "XXXXXX-8",
+            "Equipment Status": "XXXXXX-8"
+          },
+          {
+            "Equipment": "XXXXXX-9",
+            "Business Address": "XXXXXXX-9",
+            "Business Contact": "XXXXXXX-9",
+            "Lease": "XXXXXX-9",
+            "Lease Status": "XXXXXX-9",
+            "Make and Model": "XXXXXX-9",
+            "Serial Number": "XXXXXX-9",
+            "Equipment Status": "XXXXXX-9"
+          },
+          {
+            "Equipment": "XXXXXX-10",
+            "Business Address": "XXXXXXX-10",
+            "Business Contact": "XXXXXXX-10",
+            "Lease": "XXXXXX-10",
+            "Lease Status": "XXXXXX-10",
+            "Make and Model": "XXXXXX-10",
+            "Serial Number": "XXXXXX-10",
+            "Equipment Status": "XXXXXX-10"
+          },
+          {
+            "Equipment": "XXXXXX-11",
+            "Business Address": "XXXXXXX-11",
+            "Business Contact": "XXXXXXX-11",
+            "Lease": "XXXXXX-11",
+            "Lease Status": "XXXXXX-11",
+            "Make and Model": "XXXXXX-11",
+            "Serial Number": "XXXXXX-11",
+            "Equipment Status": "XXXXXX-11"
+          },
+          {
+            "Equipment": "XXXXXX-12",
+            "Business Address": "XXXXXXX-12",
+            "Business Contact": "XXXXXXX-12",
+            "Lease": "XXXXXX-12",
+            "Lease Status": "XXXXXX-12",
+            "Make and Model": "XXXXXX-12",
+            "Serial Number": "XXXXXX-12",
+            "Equipment Status": "XXXXXX-12"
+          },
+          {
+            "Equipment": "XXXXXX-13",
+            "Business Address": "XXXXXXX-13",
+            "Business Contact": "XXXXXXX-13",
+            "Lease": "XXXXXX-13",
+            "Lease Status": "XXXXXX-13",
+            "Make and Model": "XXXXXX-13",
+            "Serial Number": "XXXXXX-13",
+            "Equipment Status": "XXXXXX-13"
+          },
+          {
+            "Equipment": "XXXXXX-14",
+            "Business Address": "XXXXXXX-14",
+            "Business Contact": "XXXXXXX-14",
+            "Lease": "XXXXXX-14",
+            "Lease Status": "XXXXXX-14",
+            "Make and Model": "XXXXXX-14",
+            "Serial Number": "XXXXXX-14",
+            "Equipment Status": "XXXXXX-14"
+          }
+        ]
+      }
+    ],
+    "status": "<THE RESPONSE STATUS>"
+  }
